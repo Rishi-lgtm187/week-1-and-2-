@@ -7,3 +7,6 @@ Manages product stock during flash sales and prevents overselling when many user
 Problem 3 – DNS Cache with TTL
 
 Implements a DNS cache system that stores domain to IP mappings and removes entries when their time to live expires.
+Problem 4 – Plagiarism Detection System
+
+Breaks documents into n-grams and compares them using hashing to detect similarity between documents.
