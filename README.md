@@ -10,3 +10,6 @@ Implements a DNS cache system that stores domain to IP mappings and removes entr
 Problem 4 – Plagiarism Detection System
 
 Breaks documents into n-grams and compares them using hashing to detect similarity between documents.
+Problem 5 – Real Time Website Analytics
+
+Processes page view events and tracks top pages, unique visitors and traffic sources.
