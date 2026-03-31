@@ -13,3 +13,6 @@ Breaks documents into n-grams and compares them using hashing to detect similari
 Problem 5 – Real Time Website Analytics
 
 Processes page view events and tracks top pages, unique visitors and traffic sources.
+Problem 6 – API Rate Limiter
+
+Implements a token bucket rate limiter to control how many API requests a client can make.
