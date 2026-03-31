@@ -22,3 +22,6 @@ Suggests search queries based on prefixes using query frequency and prefix match
 Problem 8 – Parking Lot Management
 
 Uses open addressing and linear probing to assign parking spots and handle collisions.
+Problem 9 – Two Sum for Transactions
+
+Finds transaction pairs that sum to a target amount and detects duplicate payments.
