@@ -16,3 +16,6 @@ Processes page view events and tracks top pages, unique visitors and traffic sou
 Problem 6 – API Rate Limiter
 
 Implements a token bucket rate limiter to control how many API requests a client can make.
+Problem 7 – Autocomplete System
+
+Suggests search queries based on prefixes using query frequency and prefix matching.
