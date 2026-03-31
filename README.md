@@ -1,1 +1,3 @@
-# week-1-and-2-
+Problem 1 – Username Availability Checker
+
+Checks whether a username is already taken using a hash map and suggests alternatives if the username is not available.
