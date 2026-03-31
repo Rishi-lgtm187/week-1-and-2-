@@ -19,3 +19,6 @@ Implements a token bucket rate limiter to control how many API requests a client
 Problem 7 – Autocomplete System
 
 Suggests search queries based on prefixes using query frequency and prefix matching.
+Problem 8 – Parking Lot Management
+
+Uses open addressing and linear probing to assign parking spots and handle collisions.
