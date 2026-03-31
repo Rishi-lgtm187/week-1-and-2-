@@ -25,3 +25,6 @@ Uses open addressing and linear probing to assign parking spots and handle colli
 Problem 9 – Two Sum for Transactions
 
 Finds transaction pairs that sum to a target amount and detects duplicate payments.
+Problem 10 – Multi Level Cache System
+
+Implements a three level cache (L1 memory, L2 SSD, L3 database) with LRU eviction and promotion between levels.
